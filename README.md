@@ -1,5 +1,5 @@
 # 📚dev-book-club
-안녕하세요! KUP 개발자 독서모임 KUP책벌레들 입니다. 😄
+
 
 <br/>
 
