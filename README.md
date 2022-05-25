@@ -62,7 +62,7 @@
 <br/>
 
 > ## 참여자  
-  [**승민**](https://github.com/ollala5276)  |  [**미리내**](https://github.com/mirinaepark) 
+ [**미리내**](https://github.com/mirinaepark) | [**승민**](https://github.com/ollala5276)
   ---|---|
 
 
