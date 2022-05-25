@@ -12,3 +12,11 @@
 > * 읽고 정리하지 못한 다음 날 인증  <br/>
 >
 > * 토요일을 이용해 정리 내용 공유  <br/>
+
+<br/>
+
+> ## 참여자  
+  [**승민**](https://github.com/ollala5276)  |  [**미리내**](https://github.com/mirinaepark) 
+  ---|---|
+
+
